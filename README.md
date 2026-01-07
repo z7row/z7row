@@ -18,9 +18,7 @@ Always learning and looking for new challenges to improve my skills.
 - Mobile Development using React Native
 - Databases: SQL, MongoDB
 
-## GitHub Stats
 
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyad-pro&show_icons=true&theme=radical)
 
 ## Contact
 
