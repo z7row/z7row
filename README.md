@@ -1,7 +1,7 @@
 # Hi, I'm Zeyad
 
-Front-End Web Developer currently on my journey to become a Full Stack Developer.  
-I enjoy building modern, fast, and useful web and mobile applications.  
+Full-Stack Web Developer  
+I enjoy building modern, fast, and useful web and mobile applications.
 Always learning and looking for new challenges to improve my skills.
 
 ## Skills
@@ -11,12 +11,10 @@ Always learning and looking for new challenges to improve my skills.
 - React, Next Js 
 - Python, Django
 - Git, GitHub, Linux
-
-## Currently Learning
-
-- Backend Development using Django
-- Mobile Development using React Native
-- Databases: SQL, MongoDB
+- nest js
+- react native
+- mongo db
+- linux
 
 
 
